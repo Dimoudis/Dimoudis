@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Konstantinos! 👋</h1>
 
-💻 Junior Developer | Learning Software Development
+💻 Learning Software Development
 
 ---
 
