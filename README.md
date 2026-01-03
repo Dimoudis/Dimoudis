@@ -9,7 +9,7 @@ Greek – Native | English – Upper-Intermediate | French – Intermediate | Ge
 
 ---
 
-<p style="font-weight:bold; margin-top:10px; margin-bottom:5px;">Programmaing Languages and Tools</p>
+<p style="font-weight:bold; margin-top:10px; margin-bottom:5px;">Programming Languages and Tools</p>
 <p align="left">
   <!-- Java -->
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
