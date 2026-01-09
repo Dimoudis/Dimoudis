@@ -26,11 +26,11 @@ Greek – Native | English – Upper-Intermediate | French – Intermediate | Ge
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right:20px"/>
   </a>
 
-  <!-- Swagger -->
+    <!-- Swagger -->
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Swagger-Logo.png" alt="swagger" width="40" height="40" style="margin-right:20px"/>
+    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="swagger" width="40" height="40" style="margin-right:20px"/>
   </a>
-  
+
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right:20px"/>
