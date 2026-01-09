@@ -25,6 +25,11 @@ Greek – Native | English – Upper-Intermediate | French – Intermediate | Ge
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right:20px"/>
   </a>
+
+  <!-- Swagger -->
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Swagger-Logo.png" alt="swagger" width="40" height="40" style="margin-right:20px"/>
+  </a>
   
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
