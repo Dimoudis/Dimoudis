@@ -26,9 +26,9 @@ Greek – Native | English – Upper-Intermediate | French – Intermediate | Ge
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right:20px"/>
   </a>
 
-    <!-- Swagger -->
+  <!-- Swagger -->
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="swagger" width="40" height="40" style="margin-right:20px"/>
+    <img src="https://logo.svgcdn.com/logos/swagger.svg" alt="swagger" width="40" height="40" style="margin-right:20px"/>
   </a>
 
   <!-- Python -->
