@@ -35,6 +35,11 @@ Greek – Native | English – Upper-Intermediate | French – Intermediate | Ge
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right:20px"/>
   </a>
+
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/michaelachrisco/Flask-Icon/main/flask-icon.svg" alt="flask" width="40" height="40" style="margin-right:20px"/>
+  </a>
   
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
