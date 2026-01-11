@@ -38,9 +38,9 @@ Greek – Native | English – Upper-Intermediate | French – Intermediate | Ge
 
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/michaelachrisco/Flask-Icon/main/flask-icon.svg" alt="flask" width="40" height="40" style="margin-right:20px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="margin-right:20px"/>
   </a>
-  
+
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" style="margin-right:10px"/>
